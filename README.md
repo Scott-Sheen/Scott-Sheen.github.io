@@ -1,3 +1,4 @@
+![Build Status]
 ---
 
 Example [Hugo] website using GitLab Pages.
