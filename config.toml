@@ -14,7 +14,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Hugo Blog Template for GitLab Pages"
+  subtitle = "An enthusiastic optical engineer & coder, focusing on computational imaging."
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -34,25 +34,25 @@ pygmentCodeFences = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
-  email = "youremail@domain.com"
-  facebook = "username"
-  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
-  gitlab = "username"
-  github = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  keybase = "username"
+  name = "Cheng Shen"
+  email = "hgdshencheng@gmail.com"
+  facebook = "ChengShen1031"
+  #googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  gitlab = "Scott-Sheen"
+  github = "Scott-Sheen"
+  twitter = "ChengShen16"
+  reddit = "chengshen1031"
+  linkedin = "cheng-shen-b94510139"
+  #xing = "username"
+  stackoverflow = "users/10283885/cheng"
+  snapchat = "chengshen2019"
+  instagram = "cshen2333"
+  youtube = "channel/7pw2V4WCjszZ_cYyM0Pw-A" # or user/username
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #keybase = "username"
 
 
 [[menu.main]]
