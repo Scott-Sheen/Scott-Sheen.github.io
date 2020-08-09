@@ -1,4 +1,4 @@
-![Build Status]
+Introduction
 ---
 
 Example [Hugo] website using GitLab Pages.
