@@ -2,7 +2,7 @@ baseurl = "https://Scott-Sheen.gitlab.io"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "Beautiful Hugo"
+title = "Cheng Shen"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
