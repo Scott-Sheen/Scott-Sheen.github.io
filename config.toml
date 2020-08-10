@@ -91,4 +91,4 @@ pygmentCodeFences = true
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 3
+    weight = 1
