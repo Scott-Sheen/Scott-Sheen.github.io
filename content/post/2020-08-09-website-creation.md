@@ -31,7 +31,7 @@ Scrolling down [Junheng Hao](https://www.haojunheng.com/), I found two useful li
 
 3. Third try (Hugo + GitLab)
 
-Finally, I shifted to [Hugo](https://gohugo.io/). Following its [Quick Start](https://gohugo.io/getting-started/quick-start/), I easily created a new site running on the local server. Hugo was installed using [Homebrew](https://brew.sh/) on my MacBook and more detailed video tutorials can be seen on the [YouTube](https://www.youtube.com/watch?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3&v=qtIqKaDlqXo). Because Hugo renders static websites, I need to host my site virtually so that anyone on the Internet can access it. Hugo suggests a few popular hosting and automated deployment solutions, including aforementioned Netlify and GitHub. But I was attracted by GitLab.
+Finally, I shifted to [Hugo](https://gohugo.io/). Following its [Quick Start](https://gohugo.io/getting-started/quick-start/), I easily created a new site running on the local server. Hugo was installed using [Homebrew](https://brew.sh/) on my MacBook and more detailed video tutorials can be seen on the [YouTube](https://www.youtube.com/watch?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3&v=qtIqKaDlqXo). Because Hugo renders static websites, I need to host my site virtually so that anyone on the Internet can access it. Hugo suggests a few popular hosting and automated deployment [solutions](https://gohugo.io/hosting-and-deployment/), including aforementioned Netlify and GitHub. But I was attracted by GitLab.
 
 > > GitLab makes it incredibly easy to build, deploy, and host your Hugo website via their free GitLab Pages service, which provides native support for Hugo.
 
