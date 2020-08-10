@@ -1,7 +1,7 @@
 Introduction
 ---
 
-Example [Hugo] website using GitLab Pages.
+Example [Hugo] website using GitLab Pages: https://pages.gitlab.io/hugo.
 
 Learn more about GitLab Pages at https://pages.gitlab.io and the official
 documentation https://docs.gitlab.com/ce/user/project/pages/.
