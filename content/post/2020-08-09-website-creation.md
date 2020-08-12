@@ -44,7 +44,7 @@ Several useful tools:
 
 As you can see, my problem solving is not linear but rather I tried different routes. I tend to adjust my current plan by dynamically reevaluating the effort investment in the near future as well as the long run usage cost. If it is not efficient, I will decisively give up the current route and try the next one until my goal is reached. But you should always stick to your final goal.
 
-Hope this post will be helpful for you~
+Hope this post helps you a little bit~
 ヽ(✿ﾟ▽ﾟ)ノ
 
 If you have any question, feel free to contact me via channels listed at the bottom of this page. I recommend reading a very useful article before formulating your question.
