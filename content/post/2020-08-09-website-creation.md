@@ -40,7 +40,7 @@ It turned out to be incredibly easy indeed. Then I found an even easier solution
 Several useful tools:
 - Design icons and avatars using [Over](https://www.madewithover.com/)
 - Maintain your local project by git GUI client for Gitlab using [GitKraken](https://www.gitkraken.com/) or [GitHub Desktop](https://itnext.io/how-to-use-github-desktop-with-gitlab-cd4d2de3d104) (If you are a user of both GitHub and GitLab, I recommend the latter)
-- Edit your Markdown posts using [Atom](https://atom.io/) (I installed it a long time ago since I did not like the built-in text editor of macOS. I had never thought it could be so handy until I wrote this post. I highly recommend it to you)
+- Edit your Markdown posts using [Atom](https://atom.io/) (I installed it a long time ago since I did not like the built-in text editor of macOS. I had never thought it could be so handy until I wrote this post. I highly recommend it to you) or [Typora](https://typora.io/)
 
 As you can see, my problem solving is not linear but rather I tried different routes. I tend to adjust my current plan by dynamically reevaluating the effort investment in the near future as well as the long run usage cost. If it is not efficient, I will decisively give up the current route and try the next one until my goal is reached. But you should always stick to your final goal.
 
