@@ -46,3 +46,8 @@ As you can see, my problem solving is not linear but rather I tried different ro
 
 Hope this post will be helpful for you~
 ヽ(✿ﾟ▽ﾟ)ノ
+
+If you have any question, feel free to contact me via channels listed at the bottom of this page. I recommend reading a very useful article before formulating your question.
+
+- [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
+- [提问的智慧](https://lug.ustc.edu.cn/wiki/doc/smart-questions/#%E5%8E%9F%E6%96%87%E7%89%88%E6%9C%AC%E5%8E%86%E5%8F%B2)
