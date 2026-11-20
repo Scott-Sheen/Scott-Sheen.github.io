@@ -1,4 +1,4 @@
-baseurl = "https://Scott-Sheen.gitlab.io"
+baseurl = "https://Scott-Sheen.github.io/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
